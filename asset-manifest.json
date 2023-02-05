@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cat-animation/static/css/main.c91bf64f.css",
+    "main.js": "/cat-animation/static/js/main.95c3801d.js",
+    "static/media/normal-cat.gif": "/cat-animation/static/media/normal-cat.d2b7938d3c85c3ecf2fb.gif",
+    "static/media/playing-football.gif": "/cat-animation/static/media/playing-football.c269984643fe44e496f3.gif",
+    "static/media/peach-cat-ramen.gif": "/cat-animation/static/media/peach-cat-ramen.f65f8858a6e579ca7bef.gif",
+    "static/media/heart.gif": "/cat-animation/static/media/heart.710ea4df209bdc20810f.gif",
+    "static/media/sleepy-cat.gif": "/cat-animation/static/media/sleepy-cat.5a5fc2f92954fe60bb59.gif",
+    "index.html": "/cat-animation/index.html",
+    "main.c91bf64f.css.map": "/cat-animation/static/css/main.c91bf64f.css.map",
+    "main.95c3801d.js.map": "/cat-animation/static/js/main.95c3801d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91bf64f.css",
+    "static/js/main.95c3801d.js"
+  ]
+}
